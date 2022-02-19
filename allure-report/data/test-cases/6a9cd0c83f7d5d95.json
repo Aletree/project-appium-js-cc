@@ -1,0 +1,70 @@
+{
+  "uid" : "6a9cd0c83f7d5d95",
+  "name" : "When the side menu button is pressed",
+  "fullName" : "AwesomeApp Application: Validate side menu alert.When the side menu button is pressed",
+  "historyId" : "bf48685d3ad35b9158f84b1790d1303a",
+  "time" : {
+    "start" : 1645123257236,
+    "stop" : 1645123262902,
+    "duration" : 5666
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "AwesomeApp Application: Validate side menu alert"
+  }, {
+    "name" : "testClass",
+    "value" : "AwesomeApp Application: Validate side menu alert"
+  }, {
+    "name" : "testMethod",
+    "value" : "When the side menu button is pressed"
+  }, {
+    "name" : "package",
+    "value" : "AwesomeApp Application: Validate side menu alert"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "NotUsed 9-9"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9a9d2cf6fd204df6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645122950732,
+        "stop" : 1645122958458,
+        "duration" : 7726
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6a9cd0c83f7d5d95.json",
+  "parameterValues" : [ "NotUsed 9-9" ]
+}

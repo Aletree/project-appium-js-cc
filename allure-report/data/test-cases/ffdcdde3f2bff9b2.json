@@ -1,0 +1,60 @@
+{
+  "uid" : "ffdcdde3f2bff9b2",
+  "name" : "Then the settings tab loads",
+  "fullName" : "AwesomeApp Application: Settings tab load.Then the settings tab loads",
+  "historyId" : "16ec9011388cc6c73c3596667b828e52",
+  "time" : {
+    "start" : 1645062553572,
+    "stop" : 0,
+    "duration" : -1645062553572
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "AwesomeApp Application: Settings tab load"
+  }, {
+    "name" : "testClass",
+    "value" : "AwesomeApp Application: Settings tab load"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then the settings tab loads"
+  }, {
+    "name" : "package",
+    "value" : "AwesomeApp Application: Settings tab load"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "NotUsed 9-9"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ffdcdde3f2bff9b2.json",
+  "parameterValues" : [ "NotUsed 9-9" ]
+}

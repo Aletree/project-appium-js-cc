@@ -1,0 +1,70 @@
+{
+  "uid" : "1af34c6234222bdd",
+  "name" : "Given the user menu slider is opened",
+  "fullName" : "AwesomeApp Application: Validate side menu alert.Given the user menu slider is opened",
+  "historyId" : "8ef67378ff38c69562f20139aca1bf57",
+  "time" : {
+    "start" : 1645123257231,
+    "stop" : 1645123257236,
+    "duration" : 5
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "AwesomeApp Application: Validate side menu alert"
+  }, {
+    "name" : "testClass",
+    "value" : "AwesomeApp Application: Validate side menu alert"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given the user menu slider is opened"
+  }, {
+    "name" : "package",
+    "value" : "AwesomeApp Application: Validate side menu alert"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "NotUsed 9-9"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "64b9c96272b24e53",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645122950724,
+        "stop" : 1645122950732,
+        "duration" : 8
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1af34c6234222bdd.json",
+  "parameterValues" : [ "NotUsed 9-9" ]
+}

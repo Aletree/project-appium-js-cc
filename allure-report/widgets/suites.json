@@ -1,0 +1,37 @@
+{
+  "total" : 3,
+  "items" : [ {
+    "uid" : "efdc4f9fac5d19d559db05a6184ac42a",
+    "name" : "AwesomeApp Application: Settings tab load",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 4,
+      "total" : 8
+    }
+  }, {
+    "uid" : "75574432fa2a0a7edb59677e7b340304",
+    "name" : "AwesomeApp Application: Dashboard tab loads",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 2,
+      "total" : 8
+    }
+  }, {
+    "uid" : "28036b37d5a2910ab8b306fde5887bd6",
+    "name" : "AwesomeApp Application: Validate side menu alert",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    }
+  } ]
+}

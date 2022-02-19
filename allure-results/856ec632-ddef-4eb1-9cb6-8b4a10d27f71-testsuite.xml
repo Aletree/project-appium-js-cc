@@ -1,0 +1,79 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1645160343884' stop='1645160351724'>
+    <name>Side Menu: Validate side menu alert</name>
+    <title>Side Menu: Validate side menu alert</title>
+    <test-cases>
+        <test-case start='1645160343884' status='passed' stop='1645160343885'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645160343885' status='passed' stop='1645160347136'>
+            <name>Given the user menu slider is opened</name>
+            <title>Given the user menu slider is opened</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a0e0f937-617b-4115-b24c-2a9f3a10f583-attachment.png' type='image/png' size='87666'/>
+            </attachments>
+        </test-case>
+        <test-case start='1645160347137' status='passed' stop='1645160347612'>
+            <name>When the side menu button is pressed</name>
+            <title>When the side menu button is pressed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645160347613' status='passed' stop='1645160351724'>
+            <name>Then the alert is displayed</name>
+            <title>Then the alert is displayed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645160351724' status='passed' stop='1645160351724'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

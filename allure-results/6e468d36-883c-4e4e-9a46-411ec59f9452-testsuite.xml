@@ -1,0 +1,85 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1645158474435' stop='1645158474439'>
+    <name>AwesomeApp Application: Dashboard tab loads</name>
+    <title>AwesomeApp Application: Dashboard tab loads</title>
+    <test-cases>
+        <test-case start='1645158474435' status='passed' stop='1645158474436'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645158474436' status='broken' stop='1645158474437'>
+            <name>Given the current view is the settings page</name>
+            <title>Given the current view is the settings page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Step "the current view is the settings page" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.</message>
+                <stack-trace>Step "the current view is the settings page" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.
+                	at Feature(C:\appium4-js\features\awesomeapp.feature):1:1
+                	at Scenario(Dashboard tab loads):10:5
+                	at Step(the current view is the settings page):11:8
+                </stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1645158474437' status='undefined'>
+            <name>When the dashboard button is pressed</name>
+            <title>When the dashboard button is pressed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645158474437' status='undefined'>
+            <name>Then the dashboard tab loads</name>
+            <title>Then the dashboard tab loads</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645158474438' status='passed' stop='1645158474439'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

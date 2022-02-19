@@ -1,0 +1,76 @@
+{
+  "uid" : "805cf6ec96bcc357",
+  "name" : "Given the current view is the settings page",
+  "fullName" : "AwesomeApp Application: Dashboard tab loads.Given the current view is the settings page",
+  "historyId" : "c7c2cf4cdaacf3bd91b1b5821393fdbd",
+  "time" : {
+    "start" : 1645122944760,
+    "stop" : 1645122946255,
+    "duration" : 1495
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bb1a4cb0ac9fad6b",
+      "name" : "Screenshot",
+      "source" : "bb1a4cb0ac9fad6b.png",
+      "type" : "image/png",
+      "size" : 191335
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "AwesomeApp Application: Dashboard tab loads"
+  }, {
+    "name" : "testClass",
+    "value" : "AwesomeApp Application: Dashboard tab loads"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given the current view is the settings page"
+  }, {
+    "name" : "package",
+    "value" : "AwesomeApp Application: Dashboard tab loads"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "NotUsed 9-9"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "805cf6ec96bcc357.json",
+  "parameterValues" : [ "NotUsed 9-9" ]
+}

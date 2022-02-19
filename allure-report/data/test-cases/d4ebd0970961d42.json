@@ -1,0 +1,86 @@
+{
+  "uid" : "d4ebd0970961d42",
+  "name" : "",
+  "fullName" : "AwesomeApp Application: Validate side menu alert.",
+  "historyId" : "60c74c4159f9cebceb5f611dd6772bc4",
+  "time" : {
+    "start" : 1645123266920,
+    "stop" : 1645123266921,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "AwesomeApp Application: Validate side menu alert"
+  }, {
+    "name" : "testClass",
+    "value" : "AwesomeApp Application: Validate side menu alert"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "AwesomeApp Application: Validate side menu alert"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "NotUsed 9-9"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "723064a289c610fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645123257230,
+        "stop" : 1645123257231,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "eaa8befa930026c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645122962383,
+        "stop" : 1645122962383,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ff58378c776f6e7a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645122950724,
+        "stop" : 1645122950724,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d4ebd0970961d42.json",
+  "parameterValues" : [ "NotUsed 9-9" ]
+}

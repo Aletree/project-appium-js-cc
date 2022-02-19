@@ -1,0 +1,425 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "AwesomeApp Application: Settings tab load",
+    "children" : [ {
+      "name" : "Given the current view is the app landing page",
+      "uid" : "6ea5646570df30e6",
+      "parentUid" : "efdc4f9fac5d19d559db05a6184ac42a",
+      "status" : "failed",
+      "time" : {
+        "start" : 1645123241502,
+        "stop" : 1645123253865,
+        "duration" : 12363
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 9,
+      "retriesStatusChange" : false,
+      "parameters" : [ "NotUsed 9-9" ]
+    }, {
+      "name" : "When the settings button is pressed",
+      "uid" : "710df9d053c1ca44",
+      "parentUid" : "efdc4f9fac5d19d559db05a6184ac42a",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1645123253865,
+        "stop" : 0,
+        "duration" : -1645123253865
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 9,
+      "retriesStatusChange" : false,
+      "parameters" : [ "NotUsed 9-9" ]
+    }, {
+      "name" : "Then the settings tab loads",
+      "uid" : "b7659721836404f7",
+      "parentUid" : "efdc4f9fac5d19d559db05a6184ac42a",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1645123253866,
+        "stop" : 0,
+        "duration" : -1645123253866
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 9,
+      "retriesStatusChange" : false,
+      "parameters" : [ "NotUsed 9-9" ]
+    }, {
+      "name" : "",
+      "uid" : "54f592736d0c50b6",
+      "parentUid" : "efdc4f9fac5d19d559db05a6184ac42a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645123253869,
+        "stop" : 1645123253873,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 19,
+      "retriesStatusChange" : false,
+      "parameters" : [ "NotUsed 9-9" ]
+    }, {
+      "name" : "Given the current view is the app landing page",
+      "uid" : "30c9e233ccc34cd2",
+      "parentUid" : "efdc4f9fac5d19d559db05a6184ac42a",
+      "status" : "failed",
+      "time" : {
+        "start" : 1645123922204,
+        "stop" : 1645123933841,
+        "duration" : 11637
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "iPhone 8-12.1" ]
+    }, {
+      "name" : "When the settings button is pressed",
+      "uid" : "26871f6038795a6a",
+      "parentUid" : "efdc4f9fac5d19d559db05a6184ac42a",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1645123933841,
+        "stop" : 0,
+        "duration" : -1645123933841
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "iPhone 8-12.1" ]
+    }, {
+      "name" : "Then the settings tab loads",
+      "uid" : "d1ab2197a3f497f5",
+      "parentUid" : "efdc4f9fac5d19d559db05a6184ac42a",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1645123933842,
+        "stop" : 0,
+        "duration" : -1645123933842
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "iPhone 8-12.1" ]
+    }, {
+      "name" : "",
+      "uid" : "70c5548d5ed6ffdc",
+      "parentUid" : "efdc4f9fac5d19d559db05a6184ac42a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645123933844,
+        "stop" : 1645123933844,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "iPhone 8-12.1" ]
+    } ],
+    "uid" : "efdc4f9fac5d19d559db05a6184ac42a"
+  }, {
+    "name" : "AwesomeApp Application: Dashboard tab loads",
+    "children" : [ {
+      "name" : "Given the current view is the settings page",
+      "uid" : "c27405b30e5d8753",
+      "parentUid" : "75574432fa2a0a7edb59677e7b340304",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645123253905,
+        "stop" : 1645123254572,
+        "duration" : 667
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "NotUsed 9-9" ]
+    }, {
+      "name" : "When the dashboard button is pressed",
+      "uid" : "c98a19219cb0c926",
+      "parentUid" : "75574432fa2a0a7edb59677e7b340304",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645123254572,
+        "stop" : 1645123254809,
+        "duration" : 237
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "NotUsed 9-9" ]
+    }, {
+      "name" : "Then the dashboard tab loads",
+      "uid" : "82b23c71979040dc",
+      "parentUid" : "75574432fa2a0a7edb59677e7b340304",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645123254809,
+        "stop" : 1645123257205,
+        "duration" : 2396
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "NotUsed 9-9" ]
+    }, {
+      "name" : "",
+      "uid" : "81b5b6c6bd737476",
+      "parentUid" : "75574432fa2a0a7edb59677e7b340304",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645123257207,
+        "stop" : 1645123257209,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ "NotUsed 9-9" ]
+    }, {
+      "name" : "Given the current view is the settings page",
+      "uid" : "7c624b7db17fcf5f",
+      "parentUid" : "75574432fa2a0a7edb59677e7b340304",
+      "status" : "failed",
+      "time" : {
+        "start" : 1645123933864,
+        "stop" : 1645123945596,
+        "duration" : 11732
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "iPhone 8-12.1" ]
+    }, {
+      "name" : "Then the dashboard tab loads",
+      "uid" : "f11b51d060abbd61",
+      "parentUid" : "75574432fa2a0a7edb59677e7b340304",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1645123945597,
+        "stop" : 0,
+        "duration" : -1645123945597
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "iPhone 8-12.1" ]
+    }, {
+      "name" : "When the dashboard button is pressed",
+      "uid" : "8f18287023ba99b4",
+      "parentUid" : "75574432fa2a0a7edb59677e7b340304",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1645123945597,
+        "stop" : 0,
+        "duration" : -1645123945597
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "iPhone 8-12.1" ]
+    }, {
+      "name" : "",
+      "uid" : "d79c7331879c17d5",
+      "parentUid" : "75574432fa2a0a7edb59677e7b340304",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645123945604,
+        "stop" : 1645123945608,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "iPhone 8-12.1" ]
+    } ],
+    "uid" : "75574432fa2a0a7edb59677e7b340304"
+  }, {
+    "name" : "AwesomeApp Application: Validate side menu alert",
+    "children" : [ {
+      "name" : "Given the user menu slider is opened",
+      "uid" : "1af34c6234222bdd",
+      "parentUid" : "28036b37d5a2910ab8b306fde5887bd6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645123257231,
+        "stop" : 1645123257236,
+        "duration" : 5
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "NotUsed 9-9" ]
+    }, {
+      "name" : "When the side menu button is pressed",
+      "uid" : "6a9cd0c83f7d5d95",
+      "parentUid" : "28036b37d5a2910ab8b306fde5887bd6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645123257236,
+        "stop" : 1645123262902,
+        "duration" : 5666
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "NotUsed 9-9" ]
+    }, {
+      "name" : "Then the alert is displayed",
+      "uid" : "aaeba852961565c3",
+      "parentUid" : "28036b37d5a2910ab8b306fde5887bd6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645123262902,
+        "stop" : 1645123266920,
+        "duration" : 4018
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "NotUsed 9-9" ]
+    }, {
+      "name" : "",
+      "uid" : "d4ebd0970961d42",
+      "parentUid" : "28036b37d5a2910ab8b306fde5887bd6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645123266920,
+        "stop" : 1645123266921,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ "NotUsed 9-9" ]
+    }, {
+      "name" : "Given the user menu slider is opened",
+      "uid" : "e9035d5d2ba47195",
+      "parentUid" : "28036b37d5a2910ab8b306fde5887bd6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645123945628,
+        "stop" : 1645123945636,
+        "duration" : 8
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "iPhone 8-12.1" ]
+    }, {
+      "name" : "When the side menu button is pressed",
+      "uid" : "131c4913489dc7fe",
+      "parentUid" : "28036b37d5a2910ab8b306fde5887bd6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645123945638,
+        "stop" : 1645123950197,
+        "duration" : 4559
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "iPhone 8-12.1" ]
+    }, {
+      "name" : "Then the alert is displayed",
+      "uid" : "91389deba4a94080",
+      "parentUid" : "28036b37d5a2910ab8b306fde5887bd6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645123950198,
+        "stop" : 1645123954746,
+        "duration" : 4548
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "iPhone 8-12.1" ]
+    }, {
+      "name" : "",
+      "uid" : "22c63a5b8d541500",
+      "parentUid" : "28036b37d5a2910ab8b306fde5887bd6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645123954746,
+        "stop" : 1645123954747,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "iPhone 8-12.1" ]
+    } ],
+    "uid" : "28036b37d5a2910ab8b306fde5887bd6"
+  } ]
+}

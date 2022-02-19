@@ -1,0 +1,101 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1645146032918' stop='1645146032927'>
+    <name>Side Menu: Validate side menu alert</name>
+    <title>Side Menu: Validate side menu alert</title>
+    <test-cases>
+        <test-case start='1645146032919' status='passed' stop='1645146032920'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645146032920' status='broken' stop='1645146032921'>
+            <name>Given the user menu slider is opened</name>
+            <title>Given the user menu slider is opened</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Step "the user menu slider is opened" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.</message>
+                <stack-trace>Step "the user menu slider is opened" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.
+                	at Feature(C:\appium4-js\features\sidemenu\sidemenu.feature):1:1
+                	at Scenario(Validate side menu alert):4:5
+                	at Step(the user menu slider is opened):5:8
+                </stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1645146032922' status='broken' stop='1645146032923'>
+            <name>When the side menu button is pressed</name>
+            <title>When the side menu button is pressed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Step "the side menu button is pressed" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.</message>
+                <stack-trace>Step "the side menu button is pressed" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.
+                	at Feature(C:\appium4-js\features\sidemenu\sidemenu.feature):1:1
+                	at Scenario(Validate side menu alert):4:5
+                	at Step(the side menu button is pressed):6:8
+                </stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1645146032923' status='broken' stop='1645146032924'>
+            <name>Then the alert is displayed</name>
+            <title>Then the alert is displayed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Step "the alert is displayed" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.</message>
+                <stack-trace>Step "the alert is displayed" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.
+                	at Feature(C:\appium4-js\features\sidemenu\sidemenu.feature):1:1
+                	at Scenario(Validate side menu alert):4:5
+                	at Step(the alert is displayed):7:8
+                </stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1645146032926' status='passed' stop='1645146032927'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

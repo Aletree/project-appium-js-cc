@@ -1,0 +1,60 @@
+{
+  "uid" : "a776401cb1452829",
+  "name" : "",
+  "fullName" : "AwesomeApp Application: Dashboard tab loads.",
+  "historyId" : "b1926251954474434278a684010e07f3",
+  "time" : {
+    "start" : 1645122944759,
+    "stop" : 1645122944760,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "AwesomeApp Application: Dashboard tab loads"
+  }, {
+    "name" : "testClass",
+    "value" : "AwesomeApp Application: Dashboard tab loads"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "AwesomeApp Application: Dashboard tab loads"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "NotUsed 9-9"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a776401cb1452829.json",
+  "parameterValues" : [ "NotUsed 9-9" ]
+}

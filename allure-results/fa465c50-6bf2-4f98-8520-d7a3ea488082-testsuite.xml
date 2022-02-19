@@ -1,0 +1,119 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1645160340623' stop='1645160343840'>
+    <name>Side Menu: Dashboard view loads coins</name>
+    <title>Side Menu: Dashboard view loads coins</title>
+    <test-cases>
+        <test-case start='1645160340624' status='passed' stop='1645160340625'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645160340625' status='passed' stop='1645160343277'>
+            <name>Given the current view is landing page</name>
+            <title>Given the current view is landing page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645160343277' status='passed' stop='1645160343820'>
+            <name>When the setting button is pressed</name>
+            <title>When the setting button is pressed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645160343820' status='broken' stop='1645160343828'>
+            <name>And the coins are selected</name>
+            <title>And the coins are selected</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>TypeError: SettingsPage.bitcoinButton is not a function</message>
+                <stack-trace>TypeError: SettingsPage.bitcoinButton is not a function
+                    at World.&lt;anonymous> (C:\appium4-js\features\step-definitions\steps.js:87:24)
+                    at World.executeAsync (C:\appium4-js\node_modules\@wdio\utils\build\shim.js:331:27)
+                    at World.testFrameworkFnWrapper (C:\appium4-js\node_modules\@wdio\utils\build\test-framework\testFnWrapper.js:45:32)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                    at async Object.wrapPromiseWithTimeout (C:\appium4-js\node_modules\@cucumber\cucumber\lib\time.js:63:12)
+                    at async Object.run (C:\appium4-js\node_modules\@cucumber\cucumber\lib\user_code_runner.js:64:22)
+                    at async Object.run (C:\appium4-js\node_modules\@cucumber\cucumber\lib\runtime\step_runner.js:48:26)
+                    at async TestCaseRunner.invokeStep (C:\appium4-js\node_modules\@cucumber\cucumber\lib\runtime\test_case_runner.js:89:16)
+                    at async TestCaseRunner.runStep (C:\appium4-js\node_modules\@cucumber\cucumber\lib\runtime\test_case_runner.js:229:26)
+                    at async C:\appium4-js\node_modules\@cucumber\cucumber\lib\runtime\test_case_runner.js:155:48</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1645160343828' status='pending' stop='1645160343836'>
+            <name>And the dashboard button is pressed</name>
+            <title>And the dashboard button is pressed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645160343837' status='undefined'>
+            <name>Then the correct coins are displayed</name>
+            <title>Then the correct coins are displayed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645160343838' status='passed' stop='1645160343839'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

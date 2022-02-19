@@ -1,0 +1,101 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1645145226294' stop='1645145226308'>
+    <name>Dashboard: Dashboard tab loads</name>
+    <title>Dashboard: Dashboard tab loads</title>
+    <test-cases>
+        <test-case start='1645145226295' status='passed' stop='1645145226297'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645145226297' status='broken' stop='1645145226298'>
+            <name>Given the current view is the settings page</name>
+            <title>Given the current view is the settings page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Step "the current view is the settings page" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.</message>
+                <stack-trace>Step "the current view is the settings page" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.
+                	at Feature(C:\appium4-js\features\dashboard\dashboard.feature):1:1
+                	at Scenario(Dashboard tab loads):4:5
+                	at Step(the current view is the settings page):5:8
+                </stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1645145226300' status='broken' stop='1645145226301'>
+            <name>When the dashboard button is pressed</name>
+            <title>When the dashboard button is pressed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Step "the dashboard button is pressed" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.</message>
+                <stack-trace>Step "the dashboard button is pressed" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.
+                	at Feature(C:\appium4-js\features\dashboard\dashboard.feature):1:1
+                	at Scenario(Dashboard tab loads):4:5
+                	at Step(the dashboard button is pressed):6:8
+                </stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1645145226301' status='broken' stop='1645145226306'>
+            <name>Then the dashboard tab loads</name>
+            <title>Then the dashboard tab loads</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Step "the dashboard tab loads" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.</message>
+                <stack-trace>Step "the dashboard tab loads" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.
+                	at Feature(C:\appium4-js\features\dashboard\dashboard.feature):1:1
+                	at Scenario(Dashboard tab loads):4:5
+                	at Step(the dashboard tab loads):7:8
+                </stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1645145226307' status='passed' stop='1645145226307'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='NotUsed 9-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

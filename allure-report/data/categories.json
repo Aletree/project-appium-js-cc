@@ -1,0 +1,68 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Error: Expect $(`~settings-title`) to be existing",
+      "children" : [ {
+        "name" : "Given the current view is the app landing page",
+        "uid" : "6ea5646570df30e6",
+        "parentUid" : "e67f0a62157e4aae9469c20542930360",
+        "status" : "failed",
+        "time" : {
+          "start" : 1645123241502,
+          "stop" : 1645123253865,
+          "duration" : 12363
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 9,
+        "retriesStatusChange" : false,
+        "parameters" : [ "NotUsed 9-9" ]
+      } ],
+      "uid" : "e67f0a62157e4aae9469c20542930360"
+    }, {
+      "name" : "Error: Expect $(`//XCUIElementTypeStaticText[@name=\"settings-title\"]`) to be existing",
+      "children" : [ {
+        "name" : "Given the current view is the app landing page",
+        "uid" : "30c9e233ccc34cd2",
+        "parentUid" : "49b10b7d7f7de781360b35cbce3427ba",
+        "status" : "failed",
+        "time" : {
+          "start" : 1645123922204,
+          "stop" : 1645123933841,
+          "duration" : 11637
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "iPhone 8-12.1" ]
+      }, {
+        "name" : "Given the current view is the settings page",
+        "uid" : "7c624b7db17fcf5f",
+        "parentUid" : "49b10b7d7f7de781360b35cbce3427ba",
+        "status" : "failed",
+        "time" : {
+          "start" : 1645123933864,
+          "stop" : 1645123945596,
+          "duration" : 11732
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "iPhone 8-12.1" ]
+      } ],
+      "uid" : "49b10b7d7f7de781360b35cbce3427ba"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

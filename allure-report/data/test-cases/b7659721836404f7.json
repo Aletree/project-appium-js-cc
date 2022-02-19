@@ -1,0 +1,134 @@
+{
+  "uid" : "b7659721836404f7",
+  "name" : "Then the settings tab loads",
+  "fullName" : "AwesomeApp Application: Settings tab load.Then the settings tab loads",
+  "historyId" : "16ec9011388cc6c73c3596667b828e52",
+  "time" : {
+    "start" : 1645123253866,
+    "stop" : 0,
+    "duration" : -1645123253866
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 9,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "AwesomeApp Application: Settings tab load"
+  }, {
+    "name" : "testClass",
+    "value" : "AwesomeApp Application: Settings tab load"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then the settings tab loads"
+  }, {
+    "name" : "package",
+    "value" : "AwesomeApp Application: Settings tab load"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "NotUsed 9-9"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c16f83741257b1c4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1645122944730,
+        "stop" : 0,
+        "duration" : -1645122944730
+      }
+    }, {
+      "uid" : "2b2c59651da9e42",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1645063874154,
+        "stop" : 0,
+        "duration" : -1645063874154
+      }
+    }, {
+      "uid" : "68ef5350ff2ae340",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1645063136465,
+        "stop" : 0,
+        "duration" : -1645063136465
+      }
+    }, {
+      "uid" : "12dd442752b9d1e1",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1645063067537,
+        "stop" : 0,
+        "duration" : -1645063067537
+      }
+    }, {
+      "uid" : "29e9a24484c1133d",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1645062857181,
+        "stop" : 0,
+        "duration" : -1645062857181
+      }
+    }, {
+      "uid" : "ffdcdde3f2bff9b2",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1645062553572,
+        "stop" : 0,
+        "duration" : -1645062553572
+      }
+    }, {
+      "uid" : "1ac856f96b1dd46d",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1645062377539,
+        "stop" : 0,
+        "duration" : -1645062377539
+      }
+    }, {
+      "uid" : "b33a0b43d6ec342c",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1645062082958,
+        "stop" : 0,
+        "duration" : -1645062082958
+      }
+    }, {
+      "uid" : "cb6dd83d148664ed",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1645061861311,
+        "stop" : 0,
+        "duration" : -1645061861311
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b7659721836404f7.json",
+  "parameterValues" : [ "NotUsed 9-9" ]
+}

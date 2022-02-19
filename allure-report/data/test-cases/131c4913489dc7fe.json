@@ -1,0 +1,78 @@
+{
+  "uid" : "131c4913489dc7fe",
+  "name" : "When the side menu button is pressed",
+  "fullName" : "AwesomeApp Application: Validate side menu alert.When the side menu button is pressed",
+  "historyId" : "f25fb21b0a90fab3b781f41cef3c17e8",
+  "time" : {
+    "start" : 1645123945638,
+    "stop" : 1645123950197,
+    "duration" : 4559
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d4a5d5afd1f90d0e",
+      "name" : "Screenshot",
+      "source" : "d4a5d5afd1f90d0e.png",
+      "type" : "image/png",
+      "size" : 396537
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "AwesomeApp Application: Validate side menu alert"
+  }, {
+    "name" : "testClass",
+    "value" : "AwesomeApp Application: Validate side menu alert"
+  }, {
+    "name" : "testMethod",
+    "value" : "When the side menu button is pressed"
+  }, {
+    "name" : "package",
+    "value" : "AwesomeApp Application: Validate side menu alert"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "iPhone 8-12.1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "131c4913489dc7fe.json",
+  "parameterValues" : [ "iPhone 8-12.1" ]
+}

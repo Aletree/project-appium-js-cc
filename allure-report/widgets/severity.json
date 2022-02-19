@@ -1,0 +1,241 @@
+[ {
+  "uid" : "e9035d5d2ba47195",
+  "name" : "Given the user menu slider is opened",
+  "time" : {
+    "start" : 1645123945628,
+    "stop" : 1645123945636,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "54f592736d0c50b6",
+  "name" : "",
+  "time" : {
+    "start" : 1645123253869,
+    "stop" : 1645123253873,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "131c4913489dc7fe",
+  "name" : "When the side menu button is pressed",
+  "time" : {
+    "start" : 1645123945638,
+    "stop" : 1645123950197,
+    "duration" : 4559
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22c63a5b8d541500",
+  "name" : "",
+  "time" : {
+    "start" : 1645123954746,
+    "stop" : 1645123954747,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "91389deba4a94080",
+  "name" : "Then the alert is displayed",
+  "time" : {
+    "start" : 1645123950198,
+    "stop" : 1645123954746,
+    "duration" : 4548
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c98a19219cb0c926",
+  "name" : "When the dashboard button is pressed",
+  "time" : {
+    "start" : 1645123254572,
+    "stop" : 1645123254809,
+    "duration" : 237
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30c9e233ccc34cd2",
+  "name" : "Given the current view is the app landing page",
+  "time" : {
+    "start" : 1645123922204,
+    "stop" : 1645123933841,
+    "duration" : 11637
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c27405b30e5d8753",
+  "name" : "Given the current view is the settings page",
+  "time" : {
+    "start" : 1645123253905,
+    "stop" : 1645123254572,
+    "duration" : 667
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a9cd0c83f7d5d95",
+  "name" : "When the side menu button is pressed",
+  "time" : {
+    "start" : 1645123257236,
+    "stop" : 1645123262902,
+    "duration" : 5666
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c624b7db17fcf5f",
+  "name" : "Given the current view is the settings page",
+  "time" : {
+    "start" : 1645123933864,
+    "stop" : 1645123945596,
+    "duration" : 11732
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d79c7331879c17d5",
+  "name" : "",
+  "time" : {
+    "start" : 1645123945604,
+    "stop" : 1645123945608,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "26871f6038795a6a",
+  "name" : "When the settings button is pressed",
+  "time" : {
+    "start" : 1645123933841,
+    "stop" : 0,
+    "duration" : -1645123933841
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "b7659721836404f7",
+  "name" : "Then the settings tab loads",
+  "time" : {
+    "start" : 1645123253866,
+    "stop" : 0,
+    "duration" : -1645123253866
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "f11b51d060abbd61",
+  "name" : "Then the dashboard tab loads",
+  "time" : {
+    "start" : 1645123945597,
+    "stop" : 0,
+    "duration" : -1645123945597
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "81b5b6c6bd737476",
+  "name" : "",
+  "time" : {
+    "start" : 1645123257207,
+    "stop" : 1645123257209,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "710df9d053c1ca44",
+  "name" : "When the settings button is pressed",
+  "time" : {
+    "start" : 1645123253865,
+    "stop" : 0,
+    "duration" : -1645123253865
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "1af34c6234222bdd",
+  "name" : "Given the user menu slider is opened",
+  "time" : {
+    "start" : 1645123257231,
+    "stop" : 1645123257236,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8f18287023ba99b4",
+  "name" : "When the dashboard button is pressed",
+  "time" : {
+    "start" : 1645123945597,
+    "stop" : 0,
+    "duration" : -1645123945597
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "aaeba852961565c3",
+  "name" : "Then the alert is displayed",
+  "time" : {
+    "start" : 1645123262902,
+    "stop" : 1645123266920,
+    "duration" : 4018
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "82b23c71979040dc",
+  "name" : "Then the dashboard tab loads",
+  "time" : {
+    "start" : 1645123254809,
+    "stop" : 1645123257205,
+    "duration" : 2396
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d1ab2197a3f497f5",
+  "name" : "Then the settings tab loads",
+  "time" : {
+    "start" : 1645123933842,
+    "stop" : 0,
+    "duration" : -1645123933842
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "6ea5646570df30e6",
+  "name" : "Given the current view is the app landing page",
+  "time" : {
+    "start" : 1645123241502,
+    "stop" : 1645123253865,
+    "duration" : 12363
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "70c5548d5ed6ffdc",
+  "name" : "",
+  "time" : {
+    "start" : 1645123933844,
+    "stop" : 1645123933844,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d4ebd0970961d42",
+  "name" : "",
+  "time" : {
+    "start" : 1645123266920,
+    "stop" : 1645123266921,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

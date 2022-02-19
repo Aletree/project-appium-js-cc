@@ -1,0 +1,62 @@
+{
+  "uid" : "f11b51d060abbd61",
+  "name" : "Then the dashboard tab loads",
+  "fullName" : "AwesomeApp Application: Dashboard tab loads.Then the dashboard tab loads",
+  "historyId" : "a9a4289cb8b5424b3cbeddf2c391bf3c",
+  "time" : {
+    "start" : 1645123945597,
+    "stop" : 0,
+    "duration" : -1645123945597
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "AwesomeApp Application: Dashboard tab loads"
+  }, {
+    "name" : "testClass",
+    "value" : "AwesomeApp Application: Dashboard tab loads"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then the dashboard tab loads"
+  }, {
+    "name" : "package",
+    "value" : "AwesomeApp Application: Dashboard tab loads"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "iPhone 8-12.1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f11b51d060abbd61.json",
+  "parameterValues" : [ "iPhone 8-12.1" ]
+}
